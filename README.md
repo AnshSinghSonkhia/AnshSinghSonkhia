@@ -4,7 +4,7 @@
 **AnshSinghSonkhia/AnshSinghSonkhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working as an **Android Developer Intern** for **Google Developers.**
-- 🌱 I’m currently **Learning Android Development.**
+- 🌱 I’m currently **Learning Android Development & Kotlin.**
 - 👯 **I’m looking to collaborate on Projects and Startup Ideas.**
 - 🤔 I’m looking for **MENTORS!**
 - 💬 **Ask me about Startups, Programming, etc...**
