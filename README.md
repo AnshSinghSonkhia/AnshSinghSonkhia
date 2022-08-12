@@ -8,6 +8,5 @@
 - 👯 **I’m looking to collaborate on Projects and Startup Ideas.**
 - 🤔 I’m looking for **MENTORS!**
 - 💬 **Ask me about Startups, Programming, etc...**
-- 📫 *How to reach me:* https://www.linkedin.com/in/anshsinghsonkhia/
-- 😄 **Pronouns:** He/Him
+- 📫 **How to reach me:** https://www.linkedin.com/in/anshsinghsonkhia
 - ⚡*My Mission is to Solve The Problems of the Mankind. Since My School Days, I was the one who used to find the Solutions to all the Problems My Classmates, Friends & all the People Around Me Had.*
