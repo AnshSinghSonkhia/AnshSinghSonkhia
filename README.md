@@ -12,3 +12,7 @@
 - 💬 **Ask me about Startups, Programming, etc...**
 - 📫 **How to reach me:** https://www.linkedin.com/in/anshsinghsonkhia
 - ⚡*My Mission is to Solve The Problems of the Mankind. Since My School Days, I was the one who used to find the Solutions to all the Problems My Classmates, Friends & all the People Around Me Had.*
+
+## &#x1f4c8; GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSinghSonkhia&theme=<THEME_NAME>" />
