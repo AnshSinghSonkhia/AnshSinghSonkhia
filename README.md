@@ -34,9 +34,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Learning-Kotlin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+## &#x270d; My Articles
 
+Apart from coding, I also write articles.
 
+Some of My Articles:
+<!-- BLOG-POST-LIST:START -->
+- [From Getting an Internship Being a Just 18-year-old boy, to...](https://www.linkedin.com/posts/anshsinghsonkhia_internship-experience-thankyou-activity-6913529874527752192-shqZ?utm_source=li_share&utm_content=public_post&utm_medium=g_dt_web)
+- [It&#39;s Time to Say Goodbye to These Python Libraries](https://martinheinz.dev/blog/77)
 
+<!-- BLOG-POST-LIST:END -->
 
 
 
