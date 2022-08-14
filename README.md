@@ -47,7 +47,7 @@ Some of My Articles:
 - [From Getting an Internship Being a Just 18-year-old boy, to...](https://www.linkedin.com/posts/anshsinghsonkhia_internship-experience-thankyou-activity-6913529874527752192-shqZ?utm_source=li_share&utm_content=public_post&utm_medium=g_dt_web)
 - [Are You Ready To Launch Your Own Business? 4 Must Ask Questions!](https://tealfeed.com/ready-launch-own-business-4-crucial-on6hw)
 - [DON'T SKIP - Day1 of Daily Web3❗](https://www.linkedin.com/posts/anshsinghsonkhia_blockchain-programming-cryptocurrency-activity-6945010899346673664-rQG_?utm_source=linkedin_share&utm_medium=member_desktop_web)
-
+- [My First Internship Experience](https://medium.com/@AnshSinghSonkhia/my-internship-experience-with-mindler-be5df5b23d78)
 <!-- BLOG-POST-LIST:END -->
 
 
