@@ -41,7 +41,7 @@ Apart from coding, I also write articles.
 Some of My Articles:
 <!-- BLOG-POST-LIST:START -->
 - [From Getting an Internship Being a Just 18-year-old boy, to...](https://www.linkedin.com/posts/anshsinghsonkhia_internship-experience-thankyou-activity-6913529874527752192-shqZ?utm_source=li_share&utm_content=public_post&utm_medium=g_dt_web)
-- [It&#39;s Time to Say Goodbye to These Python Libraries](https://martinheinz.dev/blog/77)
+- [Are You Ready To Launch Your Own Business? 4 Must Ask Questions!](https://tealfeed.com/ready-launch-own-business-4-crucial-on6hw)
 
 <!-- BLOG-POST-LIST:END -->
 
