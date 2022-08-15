@@ -22,7 +22,7 @@
 - 👯 **I’m looking to collaborate on Projects and Startup Ideas.**
 - 🤔 I’m looking for **MENTORS!**
 - 💬 **Ask me about Startups, Programming, etc...**
-- 📫 **Reach Out To Me At:** [![LinkedIn][3.2]][3] https://www.linkedin.com/in/anshsinghsonkhia
+- 📫 **Reach Out To Me At:** <a href="https://www.linkedin.com/in/AnshSinghSonkhia"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>  @AnshSinghSonkhia
 - ⚡*My Mission is to Solve The Problems of the Mankind. Since My School Days, I was the one who used to find the Solutions to all the Problems My Classmates, Friends & all the People Around Me Had.*
 
 ## &#x1f4c8; GitHub Stats
