@@ -1,11 +1,11 @@
 # WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I'm an **Undergrad Student 🎓 at [LNCT University](https://lnct.ac.in)** Pursuing CSE (AI-ML).
 
 ## 🚀 About Me :
 
 <!--
 **AnshSinghSonkhia/AnshSinghSonkhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm an **Undergrad Student 🎓 [LNCT University](https://lnct.ac.in)** Pursuing CSE (AI-ML).
 - 🔭 I’m currently working as an **Android Developer Intern** for **Google Developers.**
 - 🌱 I’m currently **Learning Android Development & Kotlin.**
 - 👯 **I’m looking to collaborate on Projects and Startup Ideas.**
@@ -43,8 +43,7 @@ I'm an **Undergrad Student 🎓 [LNCT University](https://lnct.ac.in)** Pursuing
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Learning-Kotlin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=AnshSinghSonkhia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 
 ## &#x270d; My Articles
-
-Apart from coding, I also write articles.
+> Apart from coding, I also write articles.
 
 Some of My Articles:
 <!-- BLOG-POST-LIST:START -->
