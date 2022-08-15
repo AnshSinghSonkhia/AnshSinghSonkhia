@@ -4,13 +4,14 @@
 
 ![](https://img.shields.io/badge/-Android_Studio-informational?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QW5kcm9pZDwvdGl0bGU+PHBhdGggZD0iTTE3LjUyMyAxNS4zNDE0Yy0uNTUxMSAwLS45OTkzLS40NDg2LS45OTkzLS45OTk3cy40NDgzLS45OTkzLjk5OTMtLjk5OTNjLjU1MTEgMCAuOTk5My40NDgzLjk5OTMuOTk5My4wMDAxLjU1MTEtLjQ0ODIuOTk5Ny0uOTk5My45OTk3bS0xMS4wNDYgMGMtLjU1MTEgMC0uOTk5My0uNDQ4Ni0uOTk5My0uOTk5N3MuNDQ4Mi0uOTk5My45OTkzLS45OTkzYy41NTExIDAgLjk5OTMuNDQ4My45OTkzLjk5OTMgMCAuNTUxMS0uNDQ4My45OTk3LS45OTkzLjk5OTdtMTEuNDA0NS02LjAybDEuOTk3My0zLjQ1OTJhLjQxNi40MTYgMCAwMC0uMTUyMS0uNTY3Ni40MTYuNDE2IDAgMDAtLjU2NzYuMTUyMWwtMi4wMjIzIDMuNTAzQzE1LjU5MDIgOC4yNDM5IDEzLjg1MzMgNy44NTA4IDEyIDcuODUwOHMtMy41OTAyLjM5MzEtNS4xMzY3IDEuMDk4OUw0Ljg0MSA1LjQ0NjdhLjQxNjEuNDE2MSAwIDAwLS41Njc3LS4xNTIxLjQxNTcuNDE1NyAwIDAwLS4xNTIxLjU2NzZsMS45OTczIDMuNDU5MkMyLjY4ODkgMTEuMTg2Ny4zNDMyIDE0LjY1ODkgMCAxOC43NjFoMjRjLS4zNDM1LTQuMTAyMS0yLjY4OTItNy41NzQzLTYuMTE4NS05LjQzOTYiLz48L3N2Zz4=&logoColor=white&color=d81b60)
 ![](https://img.shields.io/badge/-Kotlin-informational?style=flat&logo=kotlin&logoColor=black&color=d81b60)
-![](https://img.shields.io/badge/-Java-informational?style=flat&logo=oracle&logoColor=black&color=d81b60)
 ![](https://img.shields.io/badge/-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=black&color=d81b60)
 ![](https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3&logoColor=black&color=d81b60)
 ![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&logoColor=black&color=d81b60)
 ![](https://img.shields.io/badge/-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=black&color=d81b60)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=black&color=d81b60)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=black&color=d81b60)
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 
 ## 🚀 About Me :
 
