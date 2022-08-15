@@ -34,7 +34,7 @@ I'm an **Undergrad Student 🎓 at [LNCT University](https://lnct.ac.in)** Pursu
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnshSinghSonkhia&theme=highcontrast&ring=DD2727&fire=D0DD20&currStreakLabel=DDDDDD)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSinghSonkhi&layout=compact&theme=vision-friendly-dark)](https://github.com/AnshSinghSonkhia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSinghSonkhia&layout=compact&theme=vision-friendly-dark)](https://github.com/AnshSinghSonkhia/github-readme-stats)
 
 <!-- <a href="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshSinghSonkhia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ansh Singh Sonkhia's GitHub Stats" />
