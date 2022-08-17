@@ -26,6 +26,7 @@ I'm an **Undergrad Student 🎓 at [LNCT University](https://lnct.ac.in)** Pursu
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=black&color=d81b60)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=black&color=d81b60)
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="80" height="80"/>&nbsp;
