@@ -53,6 +53,8 @@ I'm an **Undergrad Student 🎓 at [LNCT University](https://lnct.ac.in)** Pursu
 
 <!-- TOP LANGUAGES -->
 
+[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AnshSinghSonkhia&theme=chartreuse-dark)](https://github.com/AnshSinghSonkhia)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnshSinghSonkhia&theme=highcontrast&ring=DD2727&fire=D0DD20&currStreakLabel=DDDDDD)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSinghSonkhia&layout=&theme=vision-friendly-dark)](https://github.com/AnshSinghSonkhia/github-readme-stats)
 
@@ -62,7 +64,6 @@ I'm an **Undergrad Student 🎓 at [LNCT University](https://lnct.ac.in)** Pursu
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Learning-Kotlin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=AnshSinghSonkhia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 
-[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AnshSinghSonkhia&theme=chartreuse-dark)](https://github.com/AnshSinghSonkhia)
 
 ## &#x270d; My Articles
 > Apart from coding, I also write articles.
