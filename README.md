@@ -2,7 +2,7 @@
 
 I'm an **Undergrad Student 🎓 at [LNCT University](https://lnct.ac.in)** Pursuing CSE (AI-ML).
 
-## 🚀 About Me :
+## 🚀 About Me :     <a href="https://www.linkedin.com/in/AnshSinghSonkhia"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="right"></a>
 
 <!--
 **AnshSinghSonkhia/AnshSinghSonkhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
