@@ -1,4 +1,5 @@
-# WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/Ansh%20Profile%20Pic.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="100" height="100" align="right"/>&nbsp;
+
 I'm an **Undergrad Student 🎓 at [LNCT University](https://lnct.ac.in)** Pursuing CSE (AI-ML).
 
 ## 🚀 About Me :
