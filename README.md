@@ -25,9 +25,11 @@ I'm an **Undergrad Student 🎓 at [LNCT University](https://lnct.ac.in)** Pursu
 ![](https://img.shields.io/badge/-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=black&color=d81b60)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=black&color=d81b60)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=black&color=d81b60)
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio"  alt="AndroidStudio" width="80" height="80"/>&nbsp;
 
 ## &#x1f4c8; GitHub Stats     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
