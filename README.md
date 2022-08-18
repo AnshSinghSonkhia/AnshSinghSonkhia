@@ -1,11 +1,25 @@
-# WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/Ansh%20Profile%20Pic.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="100" height="100" align="right"/>&nbsp;
+<h1 align="center">
+  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/Ansh%20Profile%20Pic.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="100" height="100"/>&nbsp;
+  
+  WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  
+  Let's Connect and have a Chat!💬
+</h1>
 
-I'm an **Undergrad Student 🎓 at [LNCT University](https://lnct.ac.in)** Pursuing CSE (AI-ML).
+<p align="center">
+  <a href="https://www.linkedin.com/in/anshsinghsonkhia/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  </a>
 
-## 🚀 About Me :     <a href="https://www.linkedin.com/in/AnshSinghSonkhia"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="right"></a>
+</p>
+
+
+## 🚀 About Me :   
 
 <!--
 **AnshSinghSonkhia/AnshSinghSonkhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+I'm an **Undergrad Student 🎓 at [LNCT University](https://lnct.ac.in)** Pursuing CSE (AI-ML).
 
 - 🔭 I’m currently working as an **Android Developer Intern** at **Google Developers.**
 - 🌱 I’m currently **Learning Android Development & Kotlin.**
@@ -16,7 +30,8 @@ I'm an **Undergrad Student 🎓 at [LNCT University](https://lnct.ac.in)** Pursu
 - ⚡*My Mission is to Solve The Problems of the Mankind. Since My School Days, I was the one who used to find the Solutions to all the Problems My Classmates, Friends & all the People Around Me Had.*
 - ✨ In IXth Standard, My Class Teacher Taught Me That Anyone Can Do Anything If He Wants To Do it. I experimented with it & Now, That's What I Believe - "I CAN DO ANYTHING & Nothing is Impossible For Me!"
 
-<br>
+
+---
 
 ## 🛠 &nbsp;Technologies & Tools   
 
