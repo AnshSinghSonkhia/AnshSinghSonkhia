@@ -3,7 +3,7 @@
   
   WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
-  Let's Connect and have a Chat!💬
+  Let's Connect & Have A Chat!  <img src="https://media.giphy.com/media/AXHkWhNemfGjGjoG1p/giphy.gif" width="70px" height="50">
 </h1>
 
 <p align="center">
