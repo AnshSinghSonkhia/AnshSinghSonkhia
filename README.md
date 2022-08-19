@@ -19,11 +19,14 @@
   <a href="https://g.dev/AnshSinghSonkhia">
   <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/android.png"/>
 </a>
+  <a href="https://www.quora.com/profile/Ansh-Singh-Sonkhia-1">
+  <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/quora.png"/>
+</a>
 
 
   
   <!-- Extras That Could Be Used in The Future
-  https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/stack-overflow.png
+  
 <a href="https://thepiyushmalhotra.medium.com/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a>
