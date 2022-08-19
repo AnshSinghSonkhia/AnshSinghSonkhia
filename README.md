@@ -59,7 +59,7 @@ I'm an **Undergrad Student 🎓 at [LNCT University](https://lnct.ac.in)** Pursu
 - 👯 **I’m looking to collaborate on Projects and Startup Ideas.**
 - 🤔 I’m looking for **MENTORS!**
 - 💬 **Ask me about Startups, Programming, etc...**
-- 📫 **Reach Out To Me At:** <a href="https://www.linkedin.com/in/AnshSinghSonkhia"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
+- 📫 **Reach Out To Me At:** <a href="https://www.linkedin.com/in/AnshSinghSonkhia"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> <a href="https://mail.google.com/mail/u/0/?fs=1&to=anshssonkhia@gmail.com&tf=cm"><img height="22" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/gmail.png"/></a>
 - ⚡*My Mission is to Solve The Problems of the Mankind. Since My School Days, I was the one who used to find the Solutions to all the Problems My Classmates, Friends & all the People Around Me Had.*
 - ✨ In IXth Standard, My Class Teacher Taught Me That Anyone Can Do Anything If He Wants To Do it. I experimented with it & Now, That's What I Believe - "I CAN DO ANYTHING & Nothing is Impossible For Me!"
 
