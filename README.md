@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/anshsinghsonkhia/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
+  <a href="https://stackoverflow.com/users/19728087/ansh-singh-sonkhia">
+  <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/stack-overflow.png"/>
+</a>
   <a href="https://g.dev/AnshSinghSonkhia">
   <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/android.png"/>
 </a>
@@ -20,6 +23,7 @@
 
   
   <!-- Extras That Could Be Used in The Future
+  https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/stack-overflow.png
 <a href="https://thepiyushmalhotra.medium.com/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a>
