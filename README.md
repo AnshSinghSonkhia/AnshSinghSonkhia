@@ -3,8 +3,8 @@
   
   WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
-  &nbsp; &nbsp; Let's Connect & Have A Chat!  <img src="https://media.giphy.com/media/AXHkWhNemfGjGjoG1p/giphy.gif" width="70px" height="50">
 </h1>
+<h3 align="center">A passionate software developer from INDIA</h3>
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=anshssonkhia@gmail.com&tf=cm">
@@ -26,7 +26,7 @@
 
   
   <!-- Extras That Could Be Used in The Future
-  
+  &nbsp; &nbsp; 
 <a href="https://thepiyushmalhotra.medium.com/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a>
