@@ -22,6 +22,9 @@
   <a href="https://www.quora.com/profile/Ansh-Singh-Sonkhia-1">
   <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/quora.png"/>&nbsp;
 </a>
+<a href="https://twitter.com/AnshSSonkhia">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
 
 
   
