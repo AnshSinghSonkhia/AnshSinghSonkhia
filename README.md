@@ -111,8 +111,8 @@
 
 <!-- TOP LANGUAGES -->
 
-[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AnshSinghSonkhia&theme=chartreuse-dark)](https://github.com/AnshSinghSonkhia)
-
+<!--[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AnshSinghSonkhia&theme=chartreuse-dark)](https://github.com/AnshSinghSonkhia)
+-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnshSinghSonkhia&theme=highcontrast&ring=DD2727&fire=D0DD20&currStreakLabel=DDDDDD)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSinghSonkhia&layout=&theme=vision-friendly-dark)](https://github.com/AnshSinghSonkhia/github-readme-stats)
 
