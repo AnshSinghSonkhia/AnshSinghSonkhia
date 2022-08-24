@@ -143,7 +143,7 @@ Some of My Articles:
 
 <p align="center">
   <a href="https://hits.sh/github.com/AnshSinghSonkhia">
-    <img src="https://hits.sh/github.com/AnshSinghSonkhia.svg?style=plastic&label=Ansh's%20Viewers&color=000000&labelColor=bb002f&logo=github">
+    <img src="https://hits.sh/github.com/AnshSinghSonkhia.svg?style=plastic&label=Ansh's%20Viewers&color=8e0038&labelColor=bb002f&logo=github">
   </a>
 </p>
 
