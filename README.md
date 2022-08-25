@@ -10,9 +10,6 @@
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=anshssonkhia@gmail.com&tf=cm">
   <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/gmail.png"/>&nbsp;
 </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=anshssonkhia@gmail.com&tf=cm">
-  <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/gmail.png"/>&nbsp;
-</a>
   <a href="https://www.linkedin.com/in/anshsinghsonkhia/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>&nbsp;
 </a>
