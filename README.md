@@ -126,9 +126,8 @@
 
 
 ## &#x270d; My Articles
-> Apart from coding, I also write articles.
+✔ Apart from coding, I also write articles:
 
-Some of My Articles:
 <!-- BLOG-POST-LIST:START -->
 - [From Getting an Internship Being a Just 18-year-old boy, to...](https://www.linkedin.com/posts/anshsinghsonkhia_internship-experience-thankyou-activity-6913529874527752192-shqZ?utm_source=li_share&utm_content=public_post&utm_medium=g_dt_web)
 - [Are You Ready To Launch Your Own Business? 4 Must Ask Questions!](https://tealfeed.com/ready-launch-own-business-4-crucial-on6hw)
