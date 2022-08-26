@@ -66,7 +66,7 @@
 
 - 🔭 I’m currently working as an **Android Developer Intern** at **Google Developers.**
 - 🌱 I’m currently **Learning Android Development & Kotlin.**
-- 👯 **I’m looking to collaborate on Projects and Startup Ideas.**
+- 👯 **I’m looking to collaborate on Projects and Startup Ideas.** <a href="https://mail.google.com/mail/u/0/?fs=1&to=anshssonkhia@gmail.com&tf=cm"><img height="20" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/gmail.png"/>&nbsp;</a>
 - 🤔 I’m looking for **MENTORS!**
 - 💬 **Ask me about Startups, Programming, etc...**
 - 📫 **Reach Out To Me At:** <a href="https://www.linkedin.com/in/AnshSinghSonkhia"><img src="https://img.shields.io/badge/LinkedIn-darkblue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>&nbsp; <a href="https://mail.google.com/mail/u/0/?fs=1&to=anshssonkhia@gmail.com&tf=cm"><img height="22" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/gmail.png"/></a>&nbsp; <a href="https://twitter.com/AnshSSonkhia"><img src="https://img.shields.io/badge/Twitter-darkblue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
