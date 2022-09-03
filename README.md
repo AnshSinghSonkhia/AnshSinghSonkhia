@@ -28,7 +28,7 @@
 
 
   
-  <!-- Extras That Could Be Used in The Future
+  <!-- Extras That Could Be Used in The Future.
   &nbsp; &nbsp;  &nbsp; 
 <a href="https://thepiyushmalhotra.medium.com/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
