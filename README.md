@@ -13,26 +13,27 @@
   <a href="https://www.linkedin.com/in/anshsinghsonkhia/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>&nbsp;
 </a>
+  <a href="https://twitter.com/AnshSSonkhia">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
   <a href="https://stackoverflow.com/users/19728087/ansh-singh-sonkhia">
   <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/stack-overflow.png"/>&nbsp;
 </a>
   <a href="https://g.dev/AnshSinghSonkhia">
   <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/android.png"/>&nbsp;
 </a>
+  <a href="https://medium.com/@AnshSinghSonkhia">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+</a>
   <a href="https://www.quora.com/profile/Ansh-Singh-Sonkhia-1">
   <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/quora.png"/>&nbsp;
-</a>
-<a href="https://twitter.com/AnshSSonkhia">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
 
 
   
   <!-- Extras That Could Be Used in The Future.
   &nbsp; &nbsp;  &nbsp; 
-<a href="https://thepiyushmalhotra.medium.com/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
-</a>
+
 <a href="https://dev.to/thepiyushmalhotra">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
