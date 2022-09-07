@@ -23,7 +23,7 @@
   <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/android.png"/>&nbsp;
 </a>
   <a href="https://medium.com/@AnshSinghSonkhia">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+  <img height="50" src="https://cdn-icons-png.flaticon.com/512/2504/2504925.png"/>
 </a>
   <a href="https://www.quora.com/profile/Ansh-Singh-Sonkhia-1">
   <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/quora.png"/>&nbsp;
