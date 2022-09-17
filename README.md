@@ -114,7 +114,7 @@
 
 [![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AnshSinghSonkhia&theme=chartreuse-dark&count_private=true)](https://github.com/AnshSinghSonkhia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSinghSonkhia&layout=&theme=vision-friendly-dark&show_icons=true)](https://github.com/AnshSinghSonkhia/github-readme-stats)&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSinghSonkhia&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/AnshSinghSonkhia/github-readme-stats)&nbsp;&nbsp;&nbsp;
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnshSinghSonkhia&count_private=true&theme=highcontrast&ring=DD2727&fire=D0DD20&currStreakLabel=DDDDDD)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
 
 
