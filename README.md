@@ -63,7 +63,7 @@
 <!--
 **AnshSinghSonkhia/AnshSinghSonkhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-🎓 An **Undergrad Student** at 🏫 [Lakshmi Narain College of Technology](https://lnct.ac.in) Pursuing [Computer Science Engineering]() with [Artificial Intelligence & Machine Learning]().
+🎓 An **Undergrad Student** at 🏫 [Lakshmi Narain College of Technology](https://lnct.ac.in) <br> **Pursuing** 💻[Computer Science Engineering]() with 🤖[Artificial Intelligence & Machine Learning]().
 
 - 🔭 I’m currently working as an **Android Developer Intern** at **Google Developers.**
 - 🌱 I’m currently **Learning Android Development & Kotlin.**
