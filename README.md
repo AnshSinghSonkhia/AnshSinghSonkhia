@@ -2,8 +2,9 @@
   <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/profile-pic.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="100" height="100"/>&nbsp;
   
   WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  
+  ![](https://i.imgur.com/waxVImv.png)
 </h1>
+
 <h3 align="center">A Passionate Student Software Developer From INDIA &nbsp;<img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/india-flag-icon.png" height="15"></h3>
 
 <p align="center">
@@ -59,7 +60,7 @@
 
 
 ## 🚀 About Me :   
-
+![](https://i.imgur.com/waxVImv.png)
 <!--
 **AnshSinghSonkhia/AnshSinghSonkhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -75,7 +76,7 @@
 - ✨ In IXth Standard, My Class Teacher Taught Me That Anyone Can Do Anything If He Wants To Do it. I experimented with it & Now, That's What I Believe - "I CAN DO ANYTHING & Nothing is Impossible For Me!"
 
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ## 🛠 &nbsp;Tools & Technologies  I Have Used   
 
@@ -109,6 +110,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
 
 <!--<img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/tailwind%20(1).png" title="TailwindCSS" alt="TailwindCSS" width="70" height="40"/>&nbsp;-->
+![](https://i.imgur.com/waxVImv.png)
+
+
+
 
 ## &#x1f4c8; GitHub Stats     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
@@ -124,11 +129,22 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshSinghSonkhia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ansh Singh Sonkhia's GitHub Stats" />
 </a> -->
 
+![](https://i.imgur.com/waxVImv.png)
+
+
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Grocery-List-Creator-App&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=041C32"/>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Business-Maps-App&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=041C32"/><br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Learning-Kotlin&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=041C32"/>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Mitra-A-Myntra-Website-Clone&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=041C32"/><br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=AnshSinghSonkhia&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=041C32"/>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Happy-Birthday-Card-by-PM-Modi-App&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=041C32"/>
+
+![](https://i.imgur.com/waxVImv.png)
+
+
+
+
 
 
 ## &#x270d; My Articles
@@ -140,6 +156,8 @@
 - [DON'T SKIP - Day1 of Daily Web3❗](https://www.linkedin.com/posts/anshsinghsonkhia_blockchain-programming-cryptocurrency-activity-6945010899346673664-rQG_?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - [My First Internship Experience](https://medium.com/@AnshSinghSonkhia/my-internship-experience-with-mindler-be5df5b23d78)
 <!-- BLOG-POST-LIST:END -->
+
+![](https://i.imgur.com/waxVImv.png)
 
 <div align="center">
 
