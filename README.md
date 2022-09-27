@@ -2,7 +2,7 @@
   <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/profile-pic.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="100" height="100"/>&nbsp;
   
   WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  ![](https://i.imgur.com/waxVImv.png)
+
 </h1>
 
 <h3 align="center">A Passionate Student Software Developer From INDIA &nbsp;<img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/india-flag-icon.png" height="15"></h3>
@@ -58,13 +58,15 @@
  &nbsp; &nbsp;
 </p>
 
+![](https://i.imgur.com/waxVImv.png)
 
 ## 🚀 About Me :   
-![](https://i.imgur.com/waxVImv.png)
+
 <!--
 **AnshSinghSonkhia/AnshSinghSonkhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 🎓 An **Undergrad Student** at 🏫 [Lakshmi Narain College of Technology](https://lnct.ac.in) <br> **Pursuing** 💻[Computer Science Engineering]() with 🤖[Artificial Intelligence & Machine Learning]().
+
 
 - 🔭 I’m currently working as an **Android Developer Intern** at **Google Developers.**
 - 🌱 I’m currently **Learning Android Development & Kotlin.**
