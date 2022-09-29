@@ -131,10 +131,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshSinghSonkhia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ansh Singh Sonkhia's GitHub Stats" />
 </a> -->
 
+
 ![](https://i.imgur.com/waxVImv.png)
-
-
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Grocery-List-Creator-App&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=041C32"/>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Business-Maps-App&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=041C32"/><br>
 
