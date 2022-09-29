@@ -159,7 +159,7 @@
 - [My First Internship Experience](https://medium.com/@AnshSinghSonkhia/my-internship-experience-with-mindler-be5df5b23d78)
 <!-- BLOG-POST-LIST:END -->
 
-![](https://i.imgur.com/waxVImv.png)
+
 
 ## Thanks to all contributors ❤
 
@@ -167,6 +167,7 @@
    <img src = "https://contrib.rocks/image?repo=AnshSinghSonkhia/AnshSinghSonkhia"/>
  </a>
 
+![](https://i.imgur.com/waxVImv.png)
 
 <div align="center">
 
