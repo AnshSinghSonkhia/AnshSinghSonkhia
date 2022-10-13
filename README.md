@@ -159,12 +159,14 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-
+<!--
 ## Thanks to all contributors ❤
 
  <a href = "https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/graphs/contributors">
    <img src = "https://contrib.rocks/image?repo=AnshSinghSonkhia/AnshSinghSonkhia"/>
  </a>
+
+-->
 
 ![](https://i.imgur.com/waxVImv.png)
 
