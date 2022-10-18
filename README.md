@@ -32,7 +32,7 @@
 
 
   
-  <!-- Extras That Could Be Used in The Future....
+  <!-- Extras That Could Be Used in The Future..
   &nbsp; &nbsp;  &nbsp; &nbsp;
 
 <a href="https://dev.to/thepiyushmalhotra">
