@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/Ansh%20Profile%20Pic%20Dec%202022.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/Ansh%20Profile%20Pic%20Dec%202022.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="100" height="100"/> &nbsp;
   
   WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
