@@ -179,7 +179,7 @@
 
 <p align="center">
   <a href="https://hits.sh/github.com/AnshSinghSonkhia">
-    <img src="https://hits.sh/github.com/AnshSinghSonkhia.svg?style=plastic&label=Ansh's%20Viewers&extraCount=99999999&color=560027&labelColor=bb002f&logo=github">
+    <img src="https://hits.sh/github.com/AnshSinghSonkhia.svg?style=plastic&label=Ansh's%20Viewers&extraCount=729479219&color=560027&labelColor=bb002f&logo=github">
   </a>
 </p>
 
