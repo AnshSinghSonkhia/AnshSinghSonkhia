@@ -5,11 +5,14 @@
 
 </h1>
 
-<h3 align="center">A Passionate Student Software Developer From INDIA &nbsp;<img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/india-flag-icon.png" height="15"></h3>
+<h3 align="center">A Passionate Software Developer From INDIA &nbsp;<img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/india-flag-icon.png" height="15"></h3>
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=anshssonkhia@gmail.com&tf=cm">
   <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/gmail.png"/>&nbsp;
+</a>
+  <a href="https://peerlist.io/anshssonkhia">
+  <img height="45" src="https://images.yourstory.com/cs/images/companies/Peerlist-1654690538215.jpg?fm=auto&ar=1:1&mode=fill&fill=solid&fill-color=fff"/>&nbsp;
 </a>
   <a href="https://www.linkedin.com/in/anshsinghsonkhia/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>&nbsp;
