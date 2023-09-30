@@ -192,6 +192,11 @@
 
 
 
+[![An image of @anshsinghsonkhia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshsinghsonkhia)](https://holopin.io/@anshsinghsonkhia)
+
+
+
+
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
