@@ -71,11 +71,12 @@
 🎓 An **Undergrad Student** at 🏫 [Lakshmi Narain College of Technology](https://lnct.ac.in) <br> **Pursuing** 💻[Computer Science Engineering]() with specialization in 🤖[Artificial Intelligence & Machine Learning](https://g.co/kgs/x5VFnQ).
 
 
-- 🔭 I’m currently working as an **Android Developer Intern** at **Google Developers.**
-- 🌱 I’m currently **Learning Android Development & Kotlin.**
+- 🔭 **Product Strategist** at **MentorHeal**.
+- 🔭 **Software Engineer** at **AICTE IdeaLAB**.
+<!-- - 🌱 **UI/UX, Full-Stack Developer, Android Developer (Kotlin).**-->
 - 👯 **I’m looking to collaborate on Projects and Startup Ideas.**
 - 🤔 I’m looking for **MENTORS!**
-- 💬 **Ask me about Startups, Programming, etc...**
+- 💬 **Let's Discuss Startups, User Experience & Latest Tech. Advancements**
 - 📫 **Reach Out To Me At:** <a href="https://www.linkedin.com/in/AnshSinghSonkhia"><img src="https://img.shields.io/badge/LinkedIn-darkblue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>&nbsp; <a href="https://mail.google.com/mail/u/0/?fs=1&to=anshssonkhia@gmail.com&tf=cm"><img height="22" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/gmail.png"/></a>&nbsp; <a href="https://twitter.com/AnshSSonkhia"><img src="https://img.shields.io/badge/Twitter-darkblue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 - ⚡*My Mission is to Solve The Problems of Mankind. Since My School Days, I was the one who used to find the Solutions to all the Problems My Classmates, Friends & all the People Around Me Had.*
 - ✨ In IXth Standard, My Class Teacher Taught Me That Anyone Can Do Anything If He Wants To Do it. I experimented with it & Now, That's What I Believe - "I CAN DO ANYTHING & Nothing is Impossible For Me!"
@@ -96,19 +97,28 @@
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=black&color=d81b60)
 -->
 
-[<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="60" height="60"/>&nbsp;
+[<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;](https://github.com/AnshSinghSonkhia)
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP"  alt="CPP" width="60" height="60"/>&nbsp;](https://github.com/AnshSinghSonkhia)
+
 <br>
-[<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" title="TailwindCSS" alt="TailwindCSS" width="60" height="60"/>
+
+[<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-<a href="https://github.com/AnshSinghSonkhia"><img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/github.png"/></a>&nbsp;
-<a href="https://g.dev/AnshSinghSonkhia"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio"  alt="AndroidStudio" width="60" height="60"/></a>&nbsp;](https://github.com/AnshSinghSonkhia)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle"  alt="Gradle" width="60" height="60"/>&nbsp;
+<a href="https://github.com/AnshSinghSonkhia"><img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/github.png"/></a>&nbsp;](https://github.com/AnshSinghSonkhia)
+
+<!--<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle"  alt="Gradle" width="60" height="60"/>&nbsp;-->
+[<a href="https://g.dev/AnshSinghSonkhia"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio"  alt="AndroidStudio" width="60" height="60"/></a>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode"  alt="VSCode" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intelliJ"  alt="intelliJ" width="60" height="60"/>&nbsp;](https://github.com/AnshSinghSonkhia)
 <br>
@@ -125,7 +135,7 @@
 
 <!-- TOP LANGUAGES -->
 
-[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AnshSinghSonkhia&theme=chartreuse-dark&count_private=true)](https://github.com/AnshSinghSonkhia)
+<!--[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AnshSinghSonkhia&theme=chartreuse-dark&count_private=true)](https://github.com/AnshSinghSonkhia)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSinghSonkhia&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/AnshSinghSonkhia/github-readme-stats)&nbsp;&nbsp;&nbsp;
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnshSinghSonkhia&count_private=true&theme=highcontrast&ring=DD2727&fire=D0DD20&currStreakLabel=DDDDDD)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
