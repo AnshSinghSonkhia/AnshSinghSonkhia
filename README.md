@@ -151,11 +151,16 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Grocery-List-Creator-App&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=041C32"/>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Car-Showcase-NextJS&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=041C32"/><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Car-Showcase-NextJS)](https://github.com/AnshSinghSonkhia/Car-Showcase-NextJS) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Grocery-List-Creator-App)](https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App) 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Microsoft-Website-Clone&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=041C32"/>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Mitra-A-Myntra-Website-Clone&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=041C32"/><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Futuristic-CSS-Animations)](https://github.com/AnshSinghSonkhia/Futuristic-CSS-Animations)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Microsoft-Website-Clone)](https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Task-Time-Tracker&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=041C32"/>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Happy-Birthday-Card-by-PM-Modi-App&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=041C32"/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Mitra-A-Myntra-Website-Clone)](https://github.com/AnshSinghSonkhia/Mitra-A-Myntra-Website-Clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Task-Time-Tracker)](https://github.com/AnshSinghSonkhia/Task-Time-Tracker)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Happy-Birthday-Card-by-PM-Modi-App)](https://github.com/AnshSinghSonkhia/Happy-Birthday-Card-by-PM-Modi-App)
 
 ![](https://i.imgur.com/waxVImv.png)
 
