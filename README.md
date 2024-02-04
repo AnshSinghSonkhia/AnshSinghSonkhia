@@ -152,7 +152,7 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Car-Showcase-NextJS)](https://github.com/AnshSinghSonkhia/Car-Showcase-NextJS)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Grocery-List-Creator-App)](https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Futuristic-CSS-Animations)](https://github.com/AnshSinghSonkhia/Futuristic-CSS-Animations)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Microsoft-Website-Clone)](https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone)
