@@ -140,7 +140,7 @@
 
 <!--[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AnshSinghSonkhia&theme=chartreuse-dark&count_private=true)](https://github.com/AnshSinghSonkhia)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSinghSonkhia&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/AnshSinghSonkhia/github-readme-stats)&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSinghSonkhia&size_weight=0.5&count_weight=0.5&layout=compact&theme=vision-friendly-dark&show_icons=true&langs_count=20)](https://github.com/AnshSinghSonkhia/github-readme-stats)&nbsp;&nbsp;&nbsp;
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnshSinghSonkhia&count_private=true&theme=highcontrast&ring=DD2727&fire=D0DD20&currStreakLabel=DDDDDD)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
 
 
@@ -151,8 +151,8 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Car-Showcase-NextJS)](https://github.com/AnshSinghSonkhia/Car-Showcase-NextJS) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Grocery-List-Creator-App)](https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Car-Showcase-NextJS)](https://github.com/AnshSinghSonkhia/Car-Showcase-NextJS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Grocery-List-Creator-App)](https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Futuristic-CSS-Animations)](https://github.com/AnshSinghSonkhia/Futuristic-CSS-Animations)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Microsoft-Website-Clone)](https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone)
@@ -160,7 +160,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Mitra-A-Myntra-Website-Clone)](https://github.com/AnshSinghSonkhia/Mitra-A-Myntra-Website-Clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Task-Time-Tracker)](https://github.com/AnshSinghSonkhia/Task-Time-Tracker)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Happy-Birthday-Card-by-PM-Modi-App)](https://github.com/AnshSinghSonkhia/Happy-Birthday-Card-by-PM-Modi-App)
 
 ![](https://i.imgur.com/waxVImv.png)
 
