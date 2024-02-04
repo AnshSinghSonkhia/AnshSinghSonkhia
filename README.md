@@ -157,9 +157,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Futuristic-CSS-Animations)](https://github.com/AnshSinghSonkhia/Futuristic-CSS-Animations)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Microsoft-Website-Clone)](https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Mitra-A-Myntra-Website-Clone)](https://github.com/AnshSinghSonkhia/Mitra-A-Myntra-Website-Clone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Task-Time-Tracker)](https://github.com/AnshSinghSonkhia/Task-Time-Tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=40Pie-Music-Player-Website)](https://github.com/AnshSinghSonkhia/40Pie-Music-Player-Website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Coding-Keyboard-Shortcuts)](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Task-Time-Tracker)](https://github.com/AnshSinghSonkhia/Task-Time-Tracker)
 
 ![](https://i.imgur.com/waxVImv.png)
 
