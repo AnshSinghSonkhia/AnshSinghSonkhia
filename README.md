@@ -160,6 +160,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=40Pie-Music-Player-Website)](https://github.com/AnshSinghSonkhia/40Pie-Music-Player-Website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Coding-Keyboard-Shortcuts)](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=AI-Chatbot-for-Cafe---Python)](https://github.com/AnshSinghSonkhia/AI-Chatbot-for-Cafe---Python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Task-Time-Tracker)](https://github.com/AnshSinghSonkhia/Task-Time-Tracker)
 
 ![](https://i.imgur.com/waxVImv.png)
