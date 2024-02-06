@@ -81,6 +81,11 @@
 - ⚡*My Mission is to Solve The Problems of Mankind. Since My School Days, I was the one who used to find the Solutions to all the Problems My Classmates, Friends & all the People Around Me Had.*
 - ✨ In IXth Standard, My Class Teacher Taught Me That Anyone Can Do Anything If He Wants To Do it. I experimented with it & Now, That's What I Believe - "I CAN DO ANYTHING & Nothing is Impossible For Me!"
 
+<!--
+![](https://i.imgur.com/waxVImv.png)
+
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a> <a href="https://nextjs.org"> <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://mongodb.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/> </a> <a href="https://docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> <a href="https://nodejs.org/en/docs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="docker" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="docker" width="40" height="40"/> </a>  </p>
+-->
 
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -165,12 +170,28 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
+```python
+global APS = {
+  'pronouns': 'he' | 'him',
+  'code': [JavaScript, Python, Java, TypeScript, Kotlin, C++, C],
+  'tools': [HTML, CSS, Nodejs, Reactjs, Nextjs, MongoDB, Express.js, mongoosejs],
+  'architecture': ["monolithic"],
+  'techCommunities': {
+                        'UI/UX Instructor': "UXcelerate UI/UX Club",
+                      },
+  'challenge': "Looking for some challenges! I am always available on discord: '$ su Amresh#6575'"
+  'what do I like other than coding?': "Cycling, Football, Trekking, Swimming"
+}
+```
 
+![](https://i.imgur.com/waxVImv.png)
 
 # Behance Projects
 
 [<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/298b04185732699.6568a4105b074.png" title="Organic-Food-Product-Page-Modern-UI-Web-Design" alt="Organic-Food-Product-Page-Modern-UI-Web-Design" width="404" height="316"/>](https://www.behance.net/gallery/185732699/Organic-Food-Product-Page-Modern-UI-Web-Design)
 [<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/020e28185188719.655f406e82bb5.png" title="HackFood App - Food Delivery Mobile UI/UX Case Study" alt="HackFood App - Food Delivery Mobile UI/UX Case Study" width="404" height="316"/>](https://www.behance.net/gallery/185188719/HackFood-App-Food-Delivery-Mobile-UIUX-Case-Study)
+
+![](https://i.imgur.com/waxVImv.png)
 
 ## &#x270d; My Articles
 ✔ Apart from coding, I also write articles:
