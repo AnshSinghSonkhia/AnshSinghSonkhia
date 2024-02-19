@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/Profile%20Pic%20Sept.jpg" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="100" height="100"/> &nbsp;
+<!--  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/Profile%20Pic%20Sept.jpg" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="100" height="100"/> &nbsp;  <br> -->
+
+  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/LinkedIn%20Banner.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" /> &nbsp;
   
   WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
