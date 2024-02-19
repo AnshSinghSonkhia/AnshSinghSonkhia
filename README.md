@@ -1,16 +1,16 @@
 <h1 align="center">
 <!--  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/Profile%20Pic%20Sept.jpg" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="100" height="100"/> &nbsp;  <br> -->
-  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/LinkedIn%20Banner.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" height="300" /> 
+  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/LinkedIn%20Banner.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" height="120" /> 
   
-  <br>
+  
   WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> &nbsp;
   
 
   
 
+<h3 align="center">A Passionate Software Developer From INDIA &nbsp;<img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/india-flag-icon.png" height="15"></h3>
 </h1>
 
-<h3 align="center">A Passionate Software Developer From INDIA &nbsp;<img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/india-flag-icon.png" height="15"></h3>
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=anshssonkhia@gmail.com&tf=cm">
