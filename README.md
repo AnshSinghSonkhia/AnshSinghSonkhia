@@ -76,9 +76,18 @@
 
 **AnshSinghSonkhia/AnshSinghSonkhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-🎓 An **Undergrad Student** at 🏫 [Lakshmi Narain College of Technology](https://lnct.ac.in) <br> **Pursuing** 💻[Computer Science Engineering]() with specialization in 🤖[Artificial Intelligence & Machine Learning](https://g.co/kgs/x5VFnQ).
+🎓 Currently pursuing `B.Tech.` in `Computer Science Engineering` with a specialization in `Artificial Intelligence` & `Machine Learning`.
 
+<!--
+🎓 An **Undergrad Student** at 🏫 [Lakshmi Narain College of Technology](https://lnct.ac.in) <br> **Pursuing** 💻[Computer Science Engineering]() with specialization in 🤖[Artificial Intelligence & Machine Learning](https://g.co/kgs/x5VFnQ).
+-->
+
+<!--
 | 🔭 **Entrepreneurship** is in My Soul | 🌱 **Technology** is in My Heart | ⚡ **AI** is in My Brain. |
+| --- | --- | --- |
+
+-->
+| 🔭 My Soul = **Entrepreneur** | ❤️ My Heart = **Technology** | 🧠 My Brain = **AI** |
 | --- | --- | --- |
 
 <!--
