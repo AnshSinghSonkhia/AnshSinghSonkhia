@@ -78,6 +78,9 @@
 
 🎓 An **Undergrad Student** at 🏫 [Lakshmi Narain College of Technology](https://lnct.ac.in) <br> **Pursuing** 💻[Computer Science Engineering]() with specialization in 🤖[Artificial Intelligence & Machine Learning](https://g.co/kgs/x5VFnQ).
 
+| 🔭 **Entrepreneurship** is in My Soul | 🌱 **Technology** is in My Heart | ⚡ **AI** is in My Brain. |
+| --- | --- | --- |
+
 <!--
 - 🔭 **Product Strategist** at **MentorHeal**.
 - 🔭 **Software Engineer** at **AICTE IdeaLAB**.
@@ -90,25 +93,44 @@
 - 💬 **Let's Discuss Startups, User Experience & Latest Tech. Advancements**
 - 📫 **Reach Out To Me At:** <a href="https://www.linkedin.com/in/AnshSinghSonkhia"><img src="https://img.shields.io/badge/LinkedIn-darkblue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>&nbsp; <a href="https://mail.google.com/mail/u/0/?fs=1&to=anshssonkhia@gmail.com&tf=cm"><img height="22" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/gmail.png"/></a>&nbsp; <a href="https://twitter.com/AnshSSonkhia"><img src="https://img.shields.io/badge/Twitter-darkblue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 - ⚡*My Mission is to Solve The Problems of Mankind. Since My School Days, I was the one who used to find the Solutions to all the Problems My Classmates, Friends & all the People Around Me Had.*
-- ✨ In IXth Standard, My Class Teacher Taught Me That Anyone Can Do Anything If He Wants To Do it. I experimented with it & Now, That's What I Believe - "I CAN DO ANYTHING & Nothing is Impossible For Me!"
+- ✨ In IXth Standard, My Class Teacher Taught Me That Anyone Can Do Anything If He Wants To Do it. I experimented with it & Now, That's What I Believe - "I CAN DO ANYTHING & Nothing is Impossible For Me!"🎩
 -->
 
-<!--
-## Work Experience
+![](https://i.imgur.com/waxVImv.png)
+
+## ✨ Work Experience
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [Google](https://www.google.com) | SWE | June 2023 - Present |
+| [MentorHeal](https://www.mentorheal.com) | Product Strategist | Aug 2023 - Present |
 |||
-| [GMetriXR](https://www.gmetri.com/) | SDE Intern (AR/VR) | Apr 2023 - June 2023 |
-| [Cypherock](https://www.cypherock.com) | SDE Intern | Oct 2022 - Mar 2023 |
-| [Google](https://www.google.com) | SWE Intern | May 2022 - June 2022 |
-| [Summer Of Bitcoin](https://summerofbitcoin.org/) | Mentee & Open Source Contributor | July 2021 - Sep 2021 |
-| [Coronasafe](https://life.coronasafe.network/) | Full Stack Developer | Feb 2021 - Jun 2021 |
-| [Hollyface](https://hollyface.com/) | Full Stack Developer | Aug 2020 - Oct 2020 |
-| [Banbreach](https://banbreach.com/) | Software Intern | Apr 2020 - Aug 2020 |
+| [AICTE IDEA LAB](https://www.linkedin.com/company/aicte-idea-lab-lnct-bhopal/) | Software Engineer | Sept 2023 - Jan 2024 |
+|||
+| [Shift Productivity Tools](https://www.linkedin.com/company/shift-productivity-tools/) | SDE Intern | Jul 2023 - Sept 2023 |
+|||
+| [MentorHeal](https://www.mentorheal.com) | Frontend Developer Intern | Apr 2023 - Aug 2023 |
+|||
+| [Google Startup School](https://startup.google.com/programs/accelerator/southeast-asia/) | Fellow - Southeast Asia | Jul 2023 - Sep 2023 |
+|||
+| [Hacktoberfest](https://hacktoberfest.com/) | Maintainer & Open Source Contributor | Oct 2023 - Oct 2023 |
+|||
+| [Internglobally Community](https://www.linkedin.com/company/internglobally/) | Co-founder & CEO | May 2023 - Dec 2023 |
+|||
+| [GirlScript Summer of Code](https://www.linkedin.com/company/girlscriptsoc/) | Open Source Contributor | May 2023 - Aug 2023 |
+|||
+| [CodeSetGo](https://www.linkedin.com/company/codesetgo/) | Open Source Contributor | Oct 2022 - Nov 2022 |
+|||
+| [Google & AICTE](https://google.com/) | Google Supported Android Intern | Aug 2022 - Sep 2022 |
+|||
+| [Mindler](https://mindler.com) | Student Intern (Entrepreneurship & Skill Development) | Jan 2022 - Feb 2022 |
+|||
+| [UPES](https://www.linkedin.com/company/486541/) | Student Intern (Quantum Computing) | Jan 2022 (3 Days Internship) |
+|||
+| [The Campionite Magazine](https://www.campionbhopal.com/) | Writer & Editor | Apr 2018 - Mar 2021 |
+|||
+| [DHARANCH Music Production]() | Founder & CEO | Apr 2018 - Sep 2019 |
 
--->
+
 <!--
 ![](https://i.imgur.com/waxVImv.png)
 
