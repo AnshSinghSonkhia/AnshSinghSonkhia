@@ -76,7 +76,7 @@
 
 **AnshSinghSonkhia/AnshSinghSonkhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-🎓 Currently pursuing `B.Tech.` in `Computer Science Engineering` with a specialization in `Artificial Intelligence` & `Machine Learning`.
+🎓 Currently pursuing `B.Tech.` in `Computer Science Engineering` with a specialization in `Artificial Intelligence` and `Machine Learning`.
 
 <!--
 🎓 An **Undergrad Student** at 🏫 [Lakshmi Narain College of Technology](https://lnct.ac.in) <br> **Pursuing** 💻[Computer Science Engineering]() with specialization in 🤖[Artificial Intelligence & Machine Learning](https://g.co/kgs/x5VFnQ).
