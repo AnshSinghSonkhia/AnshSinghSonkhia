@@ -113,7 +113,7 @@
 | --- | --- | --- |
 | [MentorHeal](https://www.mentorheal.com) | Product Strategist | Aug 2023 - Present |
 |||
-| [AICTE IDEA LAB](https://www.linkedin.com/company/aicte-idea-lab-lnct-bhopal/) | Software Engineer | Sept 2023 - Jan 2024 |
+| [AICTE IDEA LAB](https://www.linkedin.com/company/aicte-idea-lab-lnct-bhopal/) | Software Engineer | Sept 2023 - Present |
 |||
 | [Shift Productivity Tools](https://www.linkedin.com/company/shift-productivity-tools/) | SDE Intern | Jul 2023 - Sept 2023 |
 |||
@@ -199,7 +199,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSinghSonkhia&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight&show_icons=true&langs_count=20)](https://github.com/AnshSinghSonkhia/github-readme-stats)&nbsp;&nbsp;&nbsp;
 [![GitHub Streak](https://streak-stats.demolab.com?user=AnshSinghSonkhia&count_private=true&ring=DD2727)](https://git.io/streak-stats)
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnshSinghSonkhia&count_private=true&theme=highcontrast&ring=DD2727&fire=D0DD20&currStreakLabel=DDDDDD)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;-->
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnshSinghSonkhia&count_private=true&theme=highcontrast&ring=DD2727&fire=D0DD20&currStreakLabel=DDDDDD)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;-->
 
 
 <!-- <a href="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia">
