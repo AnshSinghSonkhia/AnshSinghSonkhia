@@ -123,7 +123,7 @@
 |||
 | [Hacktoberfest](https://hacktoberfest.com/) | Maintainer & Open Source Contributor | Oct 2023 - Oct 2023 |
 |||
-| [Internglobally Community](https://www.linkedin.com/company/internglobally/) | Co-founder & CEO | May 2023 - Dec 2023 |
+| [Internglobally Community](https://www.linkedin.com/company/internglobally/) | Co-founder & CEO | May 2023 - Present |
 |||
 | [GirlScript Summer of Code](https://www.linkedin.com/company/girlscriptsoc/) | Open Source Contributor | May 2023 - Aug 2023 |
 |||
