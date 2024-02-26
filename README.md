@@ -111,7 +111,7 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [MentorHeal](https://www.mentorheal.com) | Product Strategist | Aug 2023 - Present |
+| [MentorHeal](https://www.mentorheal.com) | Product Strategist | Aug 2023 - Mar 2024 |
 |||
 | [AICTE IDEA LAB](https://www.linkedin.com/company/aicte-idea-lab-lnct-bhopal/) | Software Engineer | Sept 2023 - Present |
 |||
