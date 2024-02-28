@@ -87,8 +87,8 @@
 | --- | --- | --- |
 
 -->
-| 🔭 My Soul = **Entrepreneur** | ❤️ My Heart = **Technology** | 🧠 My Brain = **AI** |
-| --- | --- | --- |
+| 🔭 My Soul = **Entrepreneur** | ❤️ My Heart = **Technology** | 🧠 My Brain = **AI** | 5x <img height="22" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>&nbsp; Top Voice |
+| --- | --- | --- | --- |
 
 <!--
 - 🔭 **Product Strategist** at **MentorHeal**.
@@ -111,9 +111,9 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [MentorHeal](https://www.mentorheal.com) | Product Strategist | Aug 2023 - Mar 2024 |
+| [AICTE IdeaLAB](https://www.linkedin.com/company/aicte-idea-lab-lnct-bhopal/) | Software Engineer | Sept 2023 - Present |
 |||
-| [AICTE IDEA LAB](https://www.linkedin.com/company/aicte-idea-lab-lnct-bhopal/) | Software Engineer | Sept 2023 - Present |
+| [MentorHeal](https://www.mentorheal.com) | Product Strategist | Aug 2023 - Mar 2024 |
 |||
 | [Shift Productivity Tools](https://www.linkedin.com/company/shift-productivity-tools/) | SDE Intern | Jul 2023 - Sept 2023 |
 |||
