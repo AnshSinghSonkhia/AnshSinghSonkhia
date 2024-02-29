@@ -189,6 +189,149 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 
+<!--  Update in Progress 
+
+# Projects ⚙️
+-->
+
+<!-- <h1 align="center">Projects</h1> -->
+
+<!--
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">NFT Portal</h3>
+        <br />
+        <a target="_blank" href="http://nftportalbyrahul.netlify.app">
+            <img src="https://github.com/rahulkarda/rahulkarda/raw/main/images/nftportal.jpg" width="100%" alt="NFT App"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/rahulkarda/NFT-Portal" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="http://nftportalbyrahul.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c116e4&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, React, Sass, & Solidity</strong> - NFT Platform :  A simple Smart contract in Solidity and a Web3 app that lets you Mint your own NFT collection.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Wave Portal</h3>
+        <br />
+      <a target="_blank" href="https://waveatrahul.netlify.app/">
+            <img src="https://github.com/rahulkarda/rahulkarda/raw/main/images/waveportal.jpg" width="100%"  alt="Wave Portal"/>
+        </a>
+        <br />
+        <p align="center">
+   <br>
+  <a href="https://github.com/rahulkarda/Wave-Portal" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+  <a href="https://waveatrahul.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, React, Sass & Solidity</strong> - Wave Portal : A Web3 App with Solidity + Ethereum Smart Contracts. Send me Hello through Blockchain!!.</p>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">TroveXpins</h3>
+      <br />
+        <a target="_blank" href="https://rahulkarda.netlify.app">
+          <img src="https://private-user-images.githubusercontent.com/110414565/305790864-042c662f-295f-48cb-a04f-76ef46bb008a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkyMTY1MDcsIm5iZiI6MTcwOTIxNjIwNywicGF0aCI6Ii8xMTA0MTQ1NjUvMzA1NzkwODY0LTA0MmM2NjJmLTI5NWYtNDhjYi1hMDRmLTc2ZWY0NmJiMDA4YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyOVQxNDE2NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NDk1YjBlOWMzMzFmMDJiMjFiMGRkNTcxNzYzM2E4OWEwOTU4MGZkMDZhYzM3ZjgzNTYwNjIzMjYwMGUwODA3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.8QWvxR7Ffl6HJJ1SmF_bmfctaVcUpmURRVHYAX6gPk8" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/rahulkarda/Portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://rahulkarda.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">MentorHeal - Startup Website</h3>
+        <br />
+        <a target="_blank" href="https://github.com/rahulkarda/NASA-APOD">
+          <img src="https://github.com/AnshSinghSonkhia/MentorHeal-Website/raw/main/Screenshots/login.png" width="100%" alt="NASA Astronomy Picture of the Day"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/rahulkarda/NASA-APOD" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://apodbyrahul.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript & APIs</strong> - With over 10,000 different images, pick a date to get the NASA Astronomy Picture of the Day!</p>
+    </td>
+  </tr>
+
+
+
+  
+  <!--
+   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Web Postman</h3>
+      <br />
+        <a target="_blank" href="https://webpostman.netlify.app">
+          <img src="images/webpostman.jpg" width="100%" alt="Web Postman"/>
+        </a>
+      <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/rahulkarda/Web-Postman" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://webpostman.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript & PrismJs</strong> - A Web interface to easily create GET and POST requests to test and document APIs.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">IP Address Tracker</h3>
+        <br />
+        <a target="_blank" href="https://github.com/rahulkarda/IP-Address-Tracker">
+          <img src="images/iptracker.jpg" width="100%" alt="IP Address Tracker"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/rahulkarda/IP-Address-Tracker" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://trackmyip.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript & APIs</strong> - Tracks your IP Address and generates the live location on map.</p>
+    </td>
+  </tr>
+  -->
+
+<!--
+</table>
+
+![](https://i.imgur.com/waxVImv.png)
+-->
+
+
+
+
+
 
 
 ## &#x1f4c8; GitHub Stats     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
