@@ -430,8 +430,49 @@ Extended Reality (XR) is a term that encompasses the entire spectrum of compu...
 
 # Behance Projects
 
+<!-- <h1 align="center">Projects</h1> -->
+
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Organic Food Product Page Modern UI Web Design</h3>
+        <br />
+        <a target="_blank" href="https://www.behance.net/gallery/185732699/Organic-Food-Product-Page-Modern-UI-Web-Design">
+            <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/298b04185732699.6568a4105b074.png" width="100%" alt="Organic Food Product Page Modern UI Web Design"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>  
+  <a href="https://www.behance.net/gallery/185732699/Organic-Food-Product-Page-Modern-UI-Web-Design" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Behance&color=c116e4&style=plastic&logo=behance&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, React, Sass, & Solidity</strong> - NFT Platform :  A simple Smart contract in Solidity and a Web3 app that lets you Mint your own NFT collection.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center">HackFood App - Food Delivery Mobile UI/UX Case Study</h3>
+        <br />
+        <a target="_blank" href="https://www.behance.net/gallery/185732699/Organic-Food-Product-Page-Modern-UI-Web-Design" align="center">
+            <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/020e28185188719.655f406e82bb5.png" height="375px" align="center" alt="NFT App"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://www.behance.net/gallery/185732699/Organic-Food-Product-Page-Modern-UI-Web-Design" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Behance&color=c116e4&style=plastic&logo=behance&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, React, Sass, & Solidity</strong> - NFT Platform :  A simple Smart contract in Solidity and a Web3 app that lets you Mint your own NFT collection.</p>
+    </td>
+  </tr>
+  
+<!--
 [<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/298b04185732699.6568a4105b074.png" title="Organic-Food-Product-Page-Modern-UI-Web-Design" alt="Organic-Food-Product-Page-Modern-UI-Web-Design" width="404" height="316"/>](https://www.behance.net/gallery/185732699/Organic-Food-Product-Page-Modern-UI-Web-Design)
 [<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/020e28185188719.655f406e82bb5.png" title="HackFood App - Food Delivery Mobile UI/UX Case Study" alt="HackFood App - Food Delivery Mobile UI/UX Case Study" width="404" height="316"/>](https://www.behance.net/gallery/185188719/HackFood-App-Food-Delivery-Mobile-UIUX-Case-Study)
+-->
+
+
 
 ![](https://i.imgur.com/waxVImv.png)
 
