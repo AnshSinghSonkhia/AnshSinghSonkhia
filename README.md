@@ -176,16 +176,17 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+<a href="https://github.com/AnshSinghSonkhia"><img width="40" title="ExpressJS" alt="ExpressJS" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/Expressjs.png"/></a>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<a href="https://github.com/AnshSinghSonkhia"><img height="40" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/github.png"/></a>&nbsp;](https://github.com/AnshSinghSonkhia)
+<a href="https://github.com/AnshSinghSonkhia"><img height="40" title="GitHub" alt="GitHub" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/github.png"/></a>&nbsp;](https://github.com/AnshSinghSonkhia)
 [<a href="https://g.dev/AnshSinghSonkhia"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio"  alt="AndroidStudio" width="40" height="40"/></a>&nbsp;](https://github.com/AnshSinghSonkhia)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;](https://github.com/AnshSinghSonkhia)
 
 
+<!--<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;-->
 ![](https://i.imgur.com/waxVImv.png)
 
 
