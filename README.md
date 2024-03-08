@@ -359,17 +359,57 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="center">
+       <a target="_blank" href="https://github.com/AnshSinghSonkhia/thousand-colors">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=thousand-colors" width="100%" alt="An Open-Source NPM Package with 1000+ colors & their RGB values, ready to be used in your projects."/>
+        </a>
+    </td>
+    <td width="50%" valign="center">
+      <a target="_blank" href="https://github.com/AnshSinghSonkhia/generate-cdn">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=generate-cdn" width="100%" />
+      </a>
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td width="50%" valign="center">
+       <a target="_blank" href="https://github.com/AnshSinghSonkhia/total-npm-downloads">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=total-npm-downloads" width="100%" alt="An NPM Package to track the total package downloads of any NPM package from its launch date to today's date."/>
+        </a>
+    </td>
+    <td width="50%" valign="center">
+      <a target="_blank" href="https://github.com/AnshSinghSonkhia/Car-Showcase-NextJS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Car-Showcase-NextJS" width="100%" alt="NextJS, TypeScript, TailwindCSS, HeadlessUI & Cars API from RapidAPI"/>
+      </a>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td width="50%" valign="center">
+      <a target="_blank" href="https://github.com/AnshSinghSonkhia/Futuristic-CSS-Animations">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Futuristic-CSS-Animations" width="100%" alt="🔮 An Open Source Compilation of Futuristic CSS Animations."/>
+      </a>
+    </td>
+    <td width="50%" valign="center">
+       <a target="_blank" href="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Grocery-List-Creator-App" width="100%" alt="🛍️ A Kotlin App for creating Grocery Lists 🛒"/>
+        </a>
+    </td>
+  </tr>
+
+</table>
+
+
+
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Car-Showcase-NextJS)](https://github.com/AnshSinghSonkhia/Car-Showcase-NextJS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Grocery-List-Creator-App)](https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Futuristic-CSS-Animations)](https://github.com/AnshSinghSonkhia/Futuristic-CSS-Animations)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Microsoft-Website-Clone)](https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=40Pie-Music-Player-Website)](https://github.com/AnshSinghSonkhia/40Pie-Music-Player-Website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Coding-Keyboard-Shortcuts)](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=AI-Chatbot-for-Cafe---Python)](https://github.com/AnshSinghSonkhia/AI-Chatbot-for-Cafe---Python)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Task-Time-Tracker)](https://github.com/AnshSinghSonkhia/Task-Time-Tracker)
+-->
 
 ![](https://i.imgur.com/waxVImv.png)
 
