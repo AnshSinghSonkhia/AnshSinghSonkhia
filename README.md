@@ -1,3 +1,4 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <h1 align="center">
   <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/Profile%20Pic%20Sept.jpg" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="100" height="100"/> &nbsp;  <br> 
  <!-- <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/LinkedIn%20Banner.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" height="120" /> 
