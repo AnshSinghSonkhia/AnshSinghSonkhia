@@ -38,10 +38,12 @@
   <a href="https://medium.com/@AnshSinghSonkhia">
   <img height="50" src="https://cdn-icons-png.flaticon.com/512/2504/2504925.png"/>
 </a>&nbsp;
+
+  <!--
   <a href="https://www.quora.com/profile/Ansh-Singh-Sonkhia-1">
   <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/quora.png"/>&nbsp;
 </a>
-
+-->
 
   
   <!-- Extras That Could Be Used in The Future..
