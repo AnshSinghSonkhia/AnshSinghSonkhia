@@ -380,8 +380,8 @@
   
   <tr>
     <td width="50%" valign="center">
-       <a target="_blank" href="https://github.com/AnshSinghSonkhia/total-npm-downloads">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=total-npm-downloads" width="100%" alt="An NPM Package to track the total package downloads of any NPM package from its launch date to today's date."/>
+       <a target="_blank" href="https://github.com/AnshSinghSonkhia/random-math">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=random-math" width="100%" alt="NPM package for versatile randomization functions, Python-inspired, covering numbers, arrays, choices, characters, & colors."/>
         </a>
     </td>
     <td width="50%" valign="center">
