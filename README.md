@@ -114,9 +114,11 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [AICTE IdeaLAB](https://www.linkedin.com/company/aicte-idea-lab-lnct-bhopal/) | Software Engineer | Sept 2023 - Mar 2024 |
+| [iSoftwareLabs](https://www.linkedin.com/company/102466642/) | Product Engineer | May 2024 - Present |
 |||
 | [MentorHeal](https://www.mentorheal.com) | Product Strategist | Aug 2023 - Mar 2024 |
+|||
+| [AICTE IdeaLAB](https://www.linkedin.com/company/aicte-idea-lab-lnct-bhopal/) | Software Engineer | Sept 2023 - Dec 2023 |
 |||
 | [Shift Productivity Tools](https://www.linkedin.com/company/shift-productivity-tools/) | SDE Intern | Jul 2023 - Sept 2023 |
 |||
@@ -126,7 +128,7 @@
 |||
 | [Hacktoberfest](https://hacktoberfest.com/) | Maintainer & Open Source Contributor | Oct 2023 - Oct 2023 |
 |||
-| [Internglobally Community](https://www.linkedin.com/company/internglobally/) | Co-founder & CEO | May 2023 - Present |
+| [Internglobally Community](https://www.linkedin.com/company/internglobally/) | Co-founder & CEO | May 2023 - Feb 2024 |
 |||
 | [GirlScript Summer of Code](https://www.linkedin.com/company/girlscriptsoc/) | Open Source Contributor | May 2023 - Aug 2023 |
 |||
