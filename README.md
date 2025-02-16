@@ -79,7 +79,7 @@
 
 **AnshSinghSonkhia/AnshSinghSonkhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-🎓 Currently pursuing `B.Tech.` in `Computer Science Engineering` with a specialization in `Artificial Intelligence` and `Machine Learning`.
+🎓 I'm pursuing `B.Tech.` in `Computer Science Engineering` with a specialization in `Artificial Intelligence` and `Machine Learning`. (Batch 2026)
 
 <!--
 🎓 An **Undergrad Student** at 🏫 [Lakshmi Narain College of Technology](https://lnct.ac.in) <br> **Pursuing** 💻[Computer Science Engineering]() with specialization in 🤖[Artificial Intelligence & Machine Learning](https://g.co/kgs/x5VFnQ).
@@ -90,7 +90,7 @@
 | --- | --- | --- |
 
 -->
-| 🔭 My Soul = **Entrepreneur** | ❤️ My Heart = **Technology** | 🧠 My Brain = **AI** | 5x <img height="22" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>&nbsp; Top Voice |
+| 🔭 My Soul = **Entrepreneur** | ❤️ My Heart = **Technology** | 🧠 My Brain = **AI** | 6x <img height="22" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>&nbsp; Top Voice |
 | --- | --- | --- | --- |
 
 <!--
@@ -114,7 +114,7 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [iSoftwareLabs](https://www.linkedin.com/company/102466642/) | Product Engineer | May 2024 - Present |
+| [iSoftwareLabs](https://www.linkedin.com/company/102466642/) | Product Engineer | May 2024 - Nov 2024 |
 |||
 | [MentorHeal](https://www.mentorheal.com) | Product Strategist | Aug 2023 - Mar 2024 |
 |||
