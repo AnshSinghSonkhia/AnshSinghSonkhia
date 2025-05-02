@@ -1,6 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
 <h1 align="center">
-  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/leather-pic.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="140" height="140"/> &nbsp;  <br> 
+<!--   <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/leather-pic.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="140" height="140"/> &nbsp;  <br>  -->
+  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/cropped_image.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="140" height="140"/> &nbsp;  <br> 
  <!-- <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/LinkedIn%20Banner.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" height="120" /> 
   -->
   
@@ -114,7 +115,11 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [iSoftwareLabs](https://www.linkedin.com/company/102466642/) | Product Engineer | May 2024 - Nov 2024 |
+| [NexoraTLX](https://www.linkedin.com/company/105971638) | Software Development Engineer (SDE) Intern | Apr 2025 - Present |
+|||
+| [NexoraTLX](https://www.linkedin.com/company/105971638) | Curriculum & Research Intern | Apr 2025 - Present |
+|||
+| [iSoftwareLabs](https://www.linkedin.com/company/102466642/) | Product Engineer Intern | May 2024 - Nov 2024 |
 |||
 | [MentorHeal](https://www.mentorheal.com) | Product Strategist | Aug 2023 - Mar 2024 |
 |||
