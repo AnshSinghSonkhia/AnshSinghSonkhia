@@ -1,7 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
 <h1 align="center">
 <!--   <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/leather-pic.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="140" height="140"/> &nbsp;  <br>  -->
-  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/cropped_image.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="140" height="140"/> &nbsp;  <br> 
+  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/ansh%20latest%20profile%20pic%20blazer.jpg" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="140" height="140"/> &nbsp;  <br> 
  <!-- <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/LinkedIn%20Banner.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" height="120" /> 
   -->
   
