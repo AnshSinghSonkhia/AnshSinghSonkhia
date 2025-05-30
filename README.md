@@ -117,17 +117,19 @@
 | --- | --- | --- |
 | [NexoraTLX](https://www.linkedin.com/company/105971638) | Software Development Engineer (SDE) Intern | Apr 2025 - Present |
 |||
-| [NexoraTLX](https://www.linkedin.com/company/105971638) | Curriculum & Research Intern | Apr 2025 - Present |
+| [NexoraTLX](https://www.linkedin.com/company/105971638) | Curriculum & Research Intern | Apr 2025 - May 2025 |
 |||
-| [iSoftwareLabs](https://www.linkedin.com/company/102466642/) | Product Engineer Intern | May 2024 - Nov 2024 |
+| [iSoftwareLabs](https://www.linkedin.com/company/102466642/) | Product Engineer Intern | Aug 2024 - Feb 2025 |
 |||
-| [MentorHeal](https://www.mentorheal.com) | Product Strategist | Aug 2023 - Mar 2024 |
+| [Outlier AI](https://www.linkedin.com/company/try-outlier/) | AI Trainer & Prompt Engineer | Jul 2024 - Oct 2024 |
 |||
-| [AICTE IdeaLAB](https://www.linkedin.com/company/aicte-idea-lab-lnct-bhopal/) | Software Engineer | Sept 2023 - Dec 2023 |
+| [AICTE IdeaLAB](https://www.linkedin.com/company/aicte-idea-lab-lnct-bhopal/) | Software Engineer Intern | Apr 2024 - Jul 2024 |
 |||
-| [Shift Productivity Tools](https://www.linkedin.com/company/shift-productivity-tools/) | SDE Intern | Jul 2023 - Sept 2023 |
+| [MentorHeal](https://www.mentorheal.com) | Product Strategist | Jul 2023 - Mar 2024 |
 |||
-| [MentorHeal](https://www.mentorheal.com) | Frontend Developer Intern | Apr 2023 - Aug 2023 |
+| [MentorHeal](https://www.mentorheal.com) | Frontend Developer Intern | Apr 2023 - Jul 2023 |
+|||
+| [Shift Productivity Tools](https://www.linkedin.com/company/shift-productivity-tools/) | SDE Intern | Dec 2022 - Feb 2023 |
 |||
 | [Google Startup School](https://startup.google.com/programs/accelerator/southeast-asia/) | Fellow - Southeast Asia | Jul 2023 - Sep 2023 |
 |||
