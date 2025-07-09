@@ -18,15 +18,16 @@
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=anshssonkhia@gmail.com&tf=cm">
   <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/gmail.png"/>&nbsp;
 </a>
-  <a href="https://peerlist.io/anshssonkhia">
-  <img height="45" src="https://images.yourstory.com/cs/images/companies/Peerlist-1654690538215.jpg?fm=auto&ar=1:1&mode=fill&fill=solid&fill-color=fff"/>&nbsp;
-</a>
   <a href="https://www.linkedin.com/in/anshsinghsonkhia">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>&nbsp;
 </a>
-  <a href="https://twitter.com/AnshSSonkhia">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+  <a href="https://peerlist.io/anshssonkhia">
+  <img height="45" src="https://images.yourstory.com/cs/images/companies/Peerlist-1654690538215.jpg?fm=auto&ar=1:1&mode=fill&fill=solid&fill-color=fff"/>&nbsp;
 </a>
+  
+<!--   <a href="https://twitter.com/AnshSSonkhia">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/> -->
+<!-- </a>
   <a href="https://stackoverflow.com/users/19728087/ansh-singh-sonkhia">
   <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/stack-overflow.png"/>&nbsp;
 </a>
@@ -38,7 +39,7 @@
 </a>&nbsp;
   <a href="https://medium.com/@AnshSinghSonkhia">
   <img height="50" src="https://cdn-icons-png.flaticon.com/512/2504/2504925.png"/>
-</a>&nbsp;
+</a>&nbsp; -->
 
   <!--
   <a href="https://www.quora.com/profile/Ansh-Singh-Sonkhia-1">
@@ -82,6 +83,9 @@
 
 🎓 I'm pursuing `B.Tech.` in `Computer Science Engineering` with a specialization in `Artificial Intelligence` and `Machine Learning`. (Batch 2026)
 
+Product-Minded `Software Engineer` with `31+ months` of hands-on `internship experience` shipping
+applications and driving growth at `early-stage companies`, starting from 1st year of undergrad.
+
 <!--
 🎓 An **Undergrad Student** at 🏫 [Lakshmi Narain College of Technology](https://lnct.ac.in) <br> **Pursuing** 💻[Computer Science Engineering]() with specialization in 🤖[Artificial Intelligence & Machine Learning](https://g.co/kgs/x5VFnQ).
 -->
@@ -117,9 +121,11 @@
 | --- | --- | --- |
 | [NexoraTLX](https://www.linkedin.com/company/105971638) | Software Development Engineer (SDE) Intern | Apr 2025 - Present |
 |||
-| [NexoraTLX](https://www.linkedin.com/company/105971638) | Curriculum & Research Intern | Apr 2025 - May 2025 |
+| [Wilson Wings](https://www.linkedin.com/company/thewilsonwings/) | UX Researcher - Intern | Jun 2025 - Jul 2025 |
 |||
 | [iSoftwareLabs](https://www.linkedin.com/company/102466642/) | Product Engineer Intern | Aug 2024 - Feb 2025 |
+|||
+| [Devicons](https://github.com/devicons/devicon) | Open Source Contributor | Jul 2024 - Jun 2025 |
 |||
 | [Outlier AI](https://www.linkedin.com/company/try-outlier/) | AI Trainer & Prompt Engineer | Jul 2024 - Oct 2024 |
 |||
@@ -133,11 +139,9 @@
 |||
 | [Google Startup School](https://startup.google.com/programs/accelerator/southeast-asia/) | Fellow - Southeast Asia | Jul 2023 - Sep 2023 |
 |||
-| [Hacktoberfest](https://hacktoberfest.com/) | Maintainer & Open Source Contributor | Oct 2023 - Oct 2023 |
-|||
 | [Internglobally Community](https://www.linkedin.com/company/internglobally/) | Co-founder & CEO | May 2023 - Feb 2024 |
 |||
-| [GirlScript Summer of Code](https://www.linkedin.com/company/girlscriptsoc/) | Open Source Contributor | May 2023 - Aug 2023 |
+| [Hacktoberfest](https://hacktoberfest.com/) | Maintainer & Open Source Contributor | Oct 2022 - Oct 2024 |
 |||
 | [CodeSetGo](https://www.linkedin.com/company/codesetgo/) | Open Source Contributor | Oct 2022 - Nov 2022 |
 |||
@@ -146,12 +150,17 @@
 | [Mindler](https://mindler.com) | Student Intern (Entrepreneurship & Skill Development) | Jan 2022 - Feb 2022 |
 |||
 | [UPES](https://www.linkedin.com/company/486541/) | Student Intern (Quantum Computing) | Jan 2022 (3 Days Internship) |
+
+<!--
 |||
 | [The Campionite Magazine](https://www.campionbhopal.com/) | Writer & Editor | Apr 2018 - Mar 2021 |
 |||
 | [DHARANCH Music Production]() | Founder & CEO | Apr 2018 - Sep 2019 |
 
+| [GirlScript Summer of Code](https://www.linkedin.com/company/girlscriptsoc/) | Open Source Contributor | May 2023 - Aug 2023 |
+|||
 
+-->
 <!--
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -174,24 +183,25 @@
 -->
 
 [
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP"  alt="CPP" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express.js" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP"  alt="CPP" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
