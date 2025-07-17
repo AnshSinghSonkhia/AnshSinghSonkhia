@@ -1,19 +1,40 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
 <h1 align="center">
 <!--   <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/leather-pic.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="140" height="140"/> &nbsp;  <br>  -->
-  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/ansh%20latest%20profile%20pic%20blazer.jpg" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="140" height="140"/> &nbsp;  <br> 
+  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/2025%20July%20Profile%20Pic-modified.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="140" height="140"/> &nbsp;  <br> 
  <!-- <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/LinkedIn%20Banner.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" height="120" /> 
   -->
+<!--
+  I'm Sonkhia, Ansh Singh Sonkhia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> &nbsp;
+-->
   
-  WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> &nbsp;
+  I'm Sonkhia, Ansh Singh Sonkhia 
+  
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2pzbWVicGNja2Z3cm5pZDhtcnpranJjaDk2c2phN3dyeWVsdnpkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oDwOwUqNxfRC/giphy.gif" width="300px"> &nbsp;
   
 
   
 
-<h3 align="center">A Passionate Software Developer From INDIA &nbsp;<img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/india-flag-icon.png" height="15"></h3>
+<h3 align="center">Indian Product-Minded Software Engineer &nbsp;<img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/india-flag-icon.png" height="15"></h3>
 </h1>
 
+<p align="center">
+Email: anshssonkhia@gmail.com
+ &nbsp; &nbsp;
+</p>
 
+<p align="center">
+Portfolio: https://thesonkhiacode.vercel.app
+ &nbsp; &nbsp;
+ </p>
+
+  <p align="center">
+LinkedIn: https://www.linkedin.com/in/anshsinghsonkhia
+ &nbsp; &nbsp;
+</p>
+
+ 
+<!--
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=anshssonkhia@gmail.com&tf=cm">
   <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/gmail.png"/>&nbsp;
@@ -71,9 +92,12 @@
 <a href="https://medium.com/@cheezycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cheezycode" height="30" width="40" /></a>
 &nbsp;
   -->
+
+  <!--
  &nbsp; &nbsp;
 </p>
-
+ -->
+ 
 ![](https://i.imgur.com/waxVImv.png)
 
 ## 🚀 About Me :   
@@ -81,10 +105,10 @@
 
 **AnshSinghSonkhia/AnshSinghSonkhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-🎓 I'm pursuing `B.Tech.` in `Computer Science Engineering` with a specialization in `Artificial Intelligence` and `Machine Learning`. (Batch 2026)
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> &nbsp; `Software Engineer` with `30 months` of `startup internship experience` plus contractual work `training Meta
+AI’s` `LLMs` using `RLHF`, active since freshman year.
 
-Product-Minded `Software Engineer` with `31+ months` of hands-on `internship experience` shipping
-applications and driving growth at `early-stage companies`, starting from 1st year of undergrad.
+🎓 I'm pursuing `B.Tech.` in `Computer Science Engineering` with a specialization in `Artificial Intelligence` and `Machine Learning`. (Batch 2026)
 
 <!--
 🎓 An **Undergrad Student** at 🏫 [Lakshmi Narain College of Technology](https://lnct.ac.in) <br> **Pursuing** 💻[Computer Science Engineering]() with specialization in 🤖[Artificial Intelligence & Machine Learning](https://g.co/kgs/x5VFnQ).
@@ -95,7 +119,7 @@ applications and driving growth at `early-stage companies`, starting from 1st ye
 | --- | --- | --- |
 
 -->
-| 🔭 My Soul = **Entrepreneur** | ❤️ My Heart = **Technology** | 🧠 My Brain = **AI** | 6x <img height="22" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>&nbsp; Top Voice |
+| 🔭 My Soul = **Entrepreneur** | ❤️ My Heart = **Technology** | 🧠 My Brain = **AI** | IIT Bombay - Rank 10 |
 | --- | --- | --- | --- |
 
 <!--
@@ -119,9 +143,9 @@ applications and driving growth at `early-stage companies`, starting from 1st ye
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [NexoraTLX](https://www.linkedin.com/company/105971638) | Software Development Engineer (SDE) Intern | Apr 2025 - Present |
+| [NexoraTLX](https://www.linkedin.com/company/105971638) | Software Development Engineer (SDE) Intern | Apr 2025 - Jul 2025 |
 |||
-| [Wilson Wings](https://www.linkedin.com/company/thewilsonwings/) | UX Researcher - Intern | Jun 2025 - Jul 2025 |
+| [Wilson Wings](https://www.linkedin.com/company/thewilsonwings/) | UX Researcher - Intern | Jun 2025 |
 |||
 | [iSoftwareLabs](https://www.linkedin.com/company/102466642/) | Product Engineer Intern | Aug 2024 - Feb 2025 |
 |||
