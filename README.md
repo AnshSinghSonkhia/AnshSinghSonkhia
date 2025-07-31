@@ -1,7 +1,8 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
 <h1 align="center">
 <!--   <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/leather-pic.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="140" height="140"/> &nbsp;  <br>  -->
-  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/2025%20July%20Profile%20Pic-modified.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="140" height="140"/> &nbsp;  <br> 
+  <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/9514f8ed-cd9d-4073-97d5-04c85975f109" />
+  <!--<img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/2025%20July%20Profile%20Pic-modified.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="140" height="140"/> &nbsp;  <br> 
  <!-- <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/LinkedIn%20Banner.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" height="120" /> 
   -->
 <!--
@@ -9,13 +10,14 @@
 -->
   
   I'm Sonkhia, Ansh Singh Sonkhia 
-  
+
+  <!--
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2pzbWVicGNja2Z3cm5pZDhtcnpranJjaDk2c2phN3dyeWVsdnpkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oDwOwUqNxfRC/giphy.gif" width="300px"> &nbsp;
-  
+  -->
 
   
 
-<h3 align="center">Indian Product-Minded Software Engineer &nbsp;<img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/india-flag-icon.png" height="15"></h3>
+<h3 align="center">Product-Minded Software Engineer &nbsp;<img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/india-flag-icon.png" height="15"></h3>
 </h1>
 
 <p align="center">
@@ -119,8 +121,9 @@ AI’s` `LLMs` using `RLHF`, active since freshman year.
 | --- | --- | --- |
 
 -->
-| 🔭 My Soul = **Entrepreneur** | ❤️ My Heart = **Technology** | 🧠 My Brain = **AI** | IIT Bombay - Rank 10 |
+| 🤍 Coding Since **Primary School** | 🩵 IIT Bombay - **Rank 10** | 💜 Entrepreneurial **Mindset** | 🧡 Full-Stack **Developer** |
 | --- | --- | --- | --- |
+
 
 <!--
 - 🔭 **Product Strategist** at **MentorHeal**.
@@ -139,6 +142,56 @@ AI’s` `LLMs` using `RLHF`, active since freshman year.
 
 ![](https://i.imgur.com/waxVImv.png)
 
+## 💚 Latest Projects
+
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="center">
+       <a target="_blank" href="https://github.com/AnshSinghSonkhia/GoVaultFS">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=GoVaultFS" width="100%" alt="Distributed Peer-to-Peer Content-Addressable File System in Go"/>
+        </a>
+    </td>
+    <td width="50%" valign="center">
+       <a target="_blank" href="https://github.com/AnshSinghSonkhia/NameMind-AI">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=NameMind-AI" width="100%" alt="Let AI rename your files, for you to find them easily later."/>
+        </a>
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td width="50%" valign="center">
+      <a target="_blank" href="https://github.com/AnshSinghSonkhia/Vercel-Deployment-Pipeline-Clone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Vercel-Deployment-Pipeline-Clone" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="center">
+      <a target="_blank" href="https://github.com/AnshSinghSonkhia/go-TextEN2VoiceRU">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=go-TextEN2VoiceRU" width="100%" alt="Inputs English Text and Outputs Russian Speech."/>
+      </a>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td width="50%" valign="center">
+       <a target="_blank" href="https://github.com/AnshSinghSonkhia/Oil-Spill-Detection-ML-Model">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Oil-Spill-Detection-ML-Model" width="100%"/>
+        </a>
+    </td>
+    <td width="50%" valign="center">
+      <a target="_blank" href="https://github.com/AnshSinghSonkhia/Futuristic-CSS-Animations">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Futuristic-CSS-Animations" width="100%" alt="🔮 An Open Source Compilation of Futuristic CSS Animations."/>
+      </a>
+    </td>
+  </tr>
+
+</table>
+
+
+![](https://i.imgur.com/waxVImv.png)
+
 ## ✨ Work Experience
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
@@ -151,7 +204,7 @@ AI’s` `LLMs` using `RLHF`, active since freshman year.
 |||
 | [Devicons](https://github.com/devicons/devicon) | Open Source Contributor | Jul 2024 - Jun 2025 |
 |||
-| [Outlier AI](https://www.linkedin.com/company/try-outlier/) | AI Trainer & Prompt Engineer | Jul 2024 - Oct 2024 |
+| [Outlier AI](https://www.linkedin.com/company/try-outlier/) | AI Model Trainer (RLHF) & Prompt Engineer | Jul 2024 - Oct 2024 |
 |||
 | [AICTE IdeaLAB](https://www.linkedin.com/company/aicte-idea-lab-lnct-bhopal/) | Software Engineer Intern | Apr 2024 - Jul 2024 |
 |||
@@ -169,7 +222,7 @@ AI’s` `LLMs` using `RLHF`, active since freshman year.
 |||
 | [CodeSetGo](https://www.linkedin.com/company/codesetgo/) | Open Source Contributor | Oct 2022 - Nov 2022 |
 |||
-| [Google & AICTE](https://google.com/) | Google Supported Android Intern | Aug 2022 - Sep 2022 |
+| [Google & AICTE](https://google.com/) | Android Virtual Internship under Google Engineers | Aug 2022 - Sep 2022 |
 |||
 | [Mindler](https://mindler.com) | Student Intern (Entrepreneurship & Skill Development) | Jan 2022 - Feb 2022 |
 |||
@@ -383,22 +436,38 @@ AI’s` `LLMs` using `RLHF`, active since freshman year.
 
 
 
-## &#x270d; My Research Papers
+## 🦣 Research Papers
 
 <!-- BLOG-POST-LIST:START -->
-- [ChainFL Forest with XAI for Real-Time Medical Diagnosis](https://www.academia.edu/123097343/ChainFL_Forest_with_XAI_for_Real_Time_Medical_Diagnosis)
 
+| **Title**                                                     | **Link**                 |
+|---------------------------------------------------------------|--------------------------|
+| ChainFL Forest with XAI for Real-Time Medical Diagnosis       | [Visit](https://www.academia.edu/123097343/ChainFL_Forest_with_XAI_for_Real_Time_Medical_Diagnosis)       |
 
 
 ![](https://i.imgur.com/waxVImv.png)
 
+## 🦧 Articles
 
-## &#x1f4c8; GitHub Stats     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+<!-- BLOG-POST-LIST:START -->
+
+| **Title**                                                     | **Link**                 |
+|---------------------------------------------------------------|--------------------------|
+| ParadeDB: The Database Revolution Hidden in Plain Sight       | [Visit](https://thesonkhiacode.vercel.app/blog/paradedb-the-database-revolution-hidden-in-plain-sight)       |
+| Why AI Agents Will Disrupt the Next Decade of Work            | [Visit](https://thesonkhiacode.vercel.app/blog/why-ai-agents-will-disrupt-the-next-decade-of-work)            |
+| Thinking in Systems: How to Solve Bigger Problems by Zooming Out | [Visit](https://thesonkhiacode.vercel.app/blog/thinking-in-systems)                                           |
+| From Getting an Internship Being a Just 18-year-old to...     | [Visit](https://www.linkedin.com/posts/anshsinghsonkhia_internship-experience-thankyou-activity-6913529874527752192-shqZ) |
+
+![](https://i.imgur.com/waxVImv.png)
+
+
+<!-- ## &#x1f4c8; GitHub Stats     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> -->
 
 <!-- TOP LANGUAGES -->
 
 <!--[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AnshSinghSonkhia&theme=chartreuse-dark&count_private=true)](https://github.com/AnshSinghSonkhia)-->
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSinghSonkhia&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight&show_icons=true&langs_count=20)](https://github.com/AnshSinghSonkhia/github-readme-stats)&nbsp;&nbsp;&nbsp;
 [![GitHub Streak](https://streak-stats.demolab.com?user=AnshSinghSonkhia&count_private=true&ring=DD2727)](https://git.io/streak-stats)
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnshSinghSonkhia&count_private=true&theme=highcontrast&ring=DD2727&fire=D0DD20&currStreakLabel=DDDDDD)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;-->
@@ -407,63 +476,6 @@ AI’s` `LLMs` using `RLHF`, active since freshman year.
 <!-- <a href="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshSinghSonkhia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ansh Singh Sonkhia's GitHub Stats" />
 </a> -->
-
-
-![](https://i.imgur.com/waxVImv.png)
-
-<table bordercolor="#66b2b2">
-  
-  <tr>
-    <td width="50%" valign="center">
-       <a target="_blank" href="https://github.com/AnshSinghSonkhia/thousand-colors">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=thousand-colors" width="100%" alt="An Open-Source NPM Package with 1000+ colors & their RGB values, ready to be used in your projects."/>
-        </a>
-    </td>
-    <td width="50%" valign="center">
-      <a target="_blank" href="https://github.com/AnshSinghSonkhia/generate-cdn">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=generate-cdn" width="100%" />
-      </a>
-    </td>
-  </tr>
-
-  
-  <tr>
-    <td width="50%" valign="center">
-       <a target="_blank" href="https://github.com/AnshSinghSonkhia/random-math">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=random-math" width="100%" alt="NPM package for versatile randomization functions, Python-inspired, covering numbers, arrays, choices, characters, & colors."/>
-        </a>
-    </td>
-    <td width="50%" valign="center">
-      <a target="_blank" href="https://github.com/AnshSinghSonkhia/Car-Showcase-NextJS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Car-Showcase-NextJS" width="100%" alt="NextJS, TypeScript, TailwindCSS, HeadlessUI & Cars API from RapidAPI"/>
-      </a>
-    </td>
-  </tr>
-
-
-  <tr>
-    <td width="50%" valign="center">
-      <a target="_blank" href="https://github.com/AnshSinghSonkhia/Futuristic-CSS-Animations">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Futuristic-CSS-Animations" width="100%" alt="🔮 An Open Source Compilation of Futuristic CSS Animations."/>
-      </a>
-    </td>
-    <td width="50%" valign="center">
-       <a target="_blank" href="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Grocery-List-Creator-App" width="100%" alt="🛍️ A Kotlin App for creating Grocery Lists 🛒"/>
-        </a>
-    </td>
-  </tr>
-
-</table>
-
-
-
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Car-Showcase-NextJS)](https://github.com/AnshSinghSonkhia/Car-Showcase-NextJS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Grocery-List-Creator-App)](https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App)
--->
-
-![](https://i.imgur.com/waxVImv.png)
 
 <!--
 ```python
@@ -527,25 +539,56 @@ Extended Reality (XR) is a term that encompasses the entire spectrum of compu...
 <!-- HASHNODE_BLOG:END -->
 
 
-## Behance Projects
+## 🍫 Behance Projects
 
 <table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">YolietMix - Organic Premium Yogurt</h3>
+      <h3 align="center">Amul Website Redesigned | UI Design</h3>
         <br />
-        <a target="_blank" href="https://www.behance.net/gallery/185732699/Organic-Food-Product-Page-Modern-UI-Web-Design">
-            <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/298b04185732699.6568a4105b074.png" width="100%" alt="Organic Food Product Page Modern UI Web Design"/>
+        <a target="_blank" href="https://www.behance.net/gallery/200165213/Amul-Website-Redesigned-UI-Design">
+            <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/df156f200165213.Y3JvcCwxNjE2LDEyNjQsMCww.png" width="100%" alt="Organic Food Product Page Modern UI Web Design"/>
         </a>
         <br />
         <p align="center">
           <br>  
-  <a href="https://www.behance.net/gallery/185732699/Organic-Food-Product-Page-Modern-UI-Web-Design" target="_blank">
+  <a href="https://www.behance.net/gallery/200165213/Amul-Website-Redesigned-UI-Design" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Behance&color=c116e4&style=plastic&logo=behance&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Figma UI: Organic Food</strong> - Product Page Modern UI Web Design</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center">Blip EV Website Design</h3>
+        <br />
+        <a target="_blank" href="https://www.behance.net/gallery/200328847/EV-Scooter-Website-UI-Design-Brand-Identity-Landing"  valign="top" align="center">
+            <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/316057200328847.Y3JvcCwxNjE2LDEyNjQsMCww.png"  align="center" alt="NFT App"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://www.behance.net/gallery/200328847/EV-Scooter-Website-UI-Design-Brand-Identity-Landing" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Behance&color=c116e4&style=plastic&logo=behance&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Keyfume UI Design</h3>
+        <br />
+        <a target="_blank" href="https://www.behance.net/gallery/200859579/Perfume-Website-UI-Design-Ecommerce-Landing-Page">
+            <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/3a721c200859579.Y3JvcCwxNjE2LDEyNjQsMCww.png" width="100%" alt="Organic Food Product Page Modern UI Web Design"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>  
+  <a href="https://www.behance.net/gallery/200859579/Perfume-Website-UI-Design-Ecommerce-Landing-Page" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Behance&color=c116e4&style=plastic&logo=behance&logo-color=white"/>
+  </a>
+      </p>
     </td>
     <td width="50%" valign="top" align="center">
       <h3 align="center">HackFood App</h3>
@@ -560,7 +603,6 @@ Extended Reality (XR) is a term that encompasses the entire spectrum of compu...
     <img src="https://img.shields.io/static/v1?label=|&message=Behance&color=c116e4&style=plastic&logo=behance&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Figma: HackFood App</strong> - 9 Minute Food Delivery UI/UX Case Study</p>
     </td>
   </tr>
 
@@ -575,14 +617,15 @@ Extended Reality (XR) is a term that encompasses the entire spectrum of compu...
 
 ![](https://i.imgur.com/waxVImv.png)
 
-## &#x270d; My Articles
-✔ Apart from coding, I also write articles:
+<!--
+- [ParadeDB: The Database Revolution Hidden in Plain Sight](https://thesonkhiacode.vercel.app/blog/paradedb-the-database-revolution-hidden-in-plain-sight)
+- [Why AI Agents Will Disrupt the Next Decade of Work](https://thesonkhiacode.vercel.app/blog/why-ai-agents-will-disrupt-the-next-decade-of-work)
+- [Thinking in Systems: How to Solve Bigger Problems by Zooming Out](https://thesonkhiacode.vercel.app/blog/thinking-in-systems)
+- [From Getting an Internship Being a Just 18-year-old to...](https://www.linkedin.com/posts/anshsinghsonkhia_internship-experience-thankyou-activity-6913529874527752192-shqZ)
 
-<!-- BLOG-POST-LIST:START -->
-- [From Getting an Internship Being a Just 18-year-old to...](https://www.linkedin.com/posts/anshsinghsonkhia_internship-experience-thankyou-activity-6913529874527752192-shqZ?utm_source=li_share&utm_content=public_post&utm_medium=g_dt_web)
+<!-- BLOG-POST-LIST:END
 - [My First Internship Experience](https://medium.com/@AnshSinghSonkhia/my-internship-experience-with-mindler-be5df5b23d78)
-<!-- BLOG-POST-LIST:END -->
-
+-->
 
 <!--
 ## Thanks to all contributors ❤
@@ -592,8 +635,6 @@ Extended Reality (XR) is a term that encompasses the entire spectrum of compu...
  </a>
 
 -->
-
-![](https://i.imgur.com/waxVImv.png)
 
 <div align="center">
 
@@ -609,7 +650,8 @@ Extended Reality (XR) is a term that encompasses the entire spectrum of compu...
 </p>
 
 <div align="center">
-  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/eye-blink.png" width="80">
+<!--  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/eye-blink.png" width="80">-->
+  <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/3ff29bad-ba0a-4783-886d-beb292a54b7c" />
 </div>
 
 
